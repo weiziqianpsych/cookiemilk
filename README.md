@@ -6,4 +6,5 @@ An easy-to-used Python package to process knowledge structure data automatically
 - Similarity comparison
 
 Also see: https://pypi.org/project/cookiemilk/
+
 Tutorial: https://cookiemilk-tutorial.readthedocs.io/en/latest/index.html
