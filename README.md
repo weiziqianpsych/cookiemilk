@@ -5,4 +5,5 @@ An easy-to-used Python package to process knowledge structure data automatically
 - Calculate graph-based features
 - Similarity comparison
 
-Please see: https://cookiemilk-tutorial.readthedocs.io/en/latest/index.html
+Also see: https://pypi.org/project/cookiemilk/
+Tutorial: https://cookiemilk-tutorial.readthedocs.io/en/latest/index.html
